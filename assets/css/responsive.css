@@ -1,0 +1,292 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (max-width: 1920px) {
+.leave-bg > img { width: 100%; }
+}
+@media screen and (max-width: 1026px) {
+.container { width: 100%; }
+.top-text { padding-left: 148px; }
+.buzz-img { right: 0; }
+.v-leaf, .v-leaf2 { display: none; }
+.lemon { bottom: -28px; left: 0; width: 40%; }
+.modal-bg { bottom: 0; left: 0; top: inherit; width: 55%; }
+.left-ban { width: 64%; }
+.right-ban { right: 0; width: 35%; }
+.buzz-img { right: 0; width: 40%; }
+.right-ban .right-container{width:100%;}
+.bg-apply{margin-top:15%; top:60%;}
+.pop-up{margin-top:8%; top:60%;}
+@media screen and (max-width: 990px) {
+.left-container { width: 64%; }
+.right-container { width: 35%; }
+.middle-content { width: 96.5%; margin: 0 auto; }
+.left-img { width: 38%; }
+.left-right-content { width: 58%; padding-right: 10px; }
+.company-logo li { padding: 0 9px; }
+.form-prd li span { padding: 10px 5px 0; }
+
+.green-add-text h1 { font-size: 35px;}
+.yellow-tag{font-size:32px;}
+.pink-btn button{margin-left:0; font-size:18px;}
+.green-add-text a,.green-add-text p{padding:0;}
+.bottle-img img, .red-tag img{width:80%;}
+.after-text h1{font-size:40px; line-height:42px;}
+.after-text p {
+    color: #111;
+    font-size: 14px;
+    line-height: 19px;
+    padding: 0 10px 25px 4px;
+}
+}
+@media screen and (max-width: 960px) {
+.middle-content { width: 100%; }
+}
+@media screen and (max-width: 800px) {
+.left-container, .right-container { float: none; width: 100%; }
+.company-logo > ul { text-align: center; }
+.left-container { margin-bottom: 20px; }
+.right-container { background-size: 100% auto; }
+.top-heading h1 { padding: 20px; }
+.less-width { width: 95%; }
+.right-new { text-align: center; }
+.text-lower { text-align: center; }
+.badge { width: 100%; }
+.top-text { background: none repeat scroll 0 0 #adc620; padding-left: 0; position: static; text-align: center; width: 98%; margin: 0 auto; }
+.head-left { float: none; }
+.logo { float: none; padding-bottom: 0; }
+.badge { width: 98%; }
+.badge-image { padding-right: 10px; }
+.home-logo { width: 100%; margin-bottom: 15px; }
+.right-ban .right-container { width: 95%; margin: 80px auto 0; background-size: 100% 100%; }
+.left-ban { width: 98%; }
+.fat { right: -11px; }
+.right-ban { width: 100%; position: static; }
+.right-ban .form-prd { width: 70%; margin: 0 auto; }
+.color-strip li { width: 12%; }
+.buzz-img { display: none; }
+.buzz p { width: 100%; }
+.yellow-right { width: 50%; }
+.yellow-img { right: 0; display: none; }
+.yellow-right p { width: 100%; }
+.yellow-right h1, .yellow-right h1 span { font-size: 40px; }
+.green_text h2 span.expect { font-size: 40px; }
+.green_text { padding-top: 10px; }
+.green_text p { font-size: 14px; line-height: 20px; }
+.after-text h1 {
+    font-size: 35px;
+    line-height: 38px;
+    padding-top: 17px;
+}
+.after-text h1 br{display:none;}
+.green-add{background-size:100% 100%;}
+.bottle-img, .red-tag,.green-add-text{text-align:center; float:none;}
+.bottle-img img, .red-tag img,.red-tag img{width:auto;}
+.yellow-tag{margin:0 auto 10px;}
+.red-tag{padding-top:10px;}
+.claim{right:0;}
+.clensing .left-price h3{font-size:28px;}
+.fat{right:0;}
+.badge-home{right:0;}
+.bg-apply{margin-top:30%; top:60%;
+}
+ @media screen and (max-width: 768px) {
+.badge h2 { font-size: 35px; }
+.fotter-section { padding: 55px 5px 42px; }
+.video-left, .video-right { float: none; width: 100%; }
+.buzz-img { display: none; }
+.after-text h1{font-size:30px; line-height:35px;}
+.bg-apply{top:45%;}
+.claim-mb {
+    background: none repeat scroll 0 0 #fbbe2a;
+    border: 2px solid;
+    display: block;
+    font-size: 30px;
+    font-weight: 900;
+    padding: 25px 27px 25px 100px;
+    text-align: center;
+}
+.claim img{display:none;}
+.claim{left:0; bottom:-14px;}
+.fat {
+    right:0px;
+    top: 49%;
+    width: 73%;
+}
+.badge-home{top:13%;}
+.left-ban{margin-top:-50px;}
+.clensing .left-price h3,.clensing .right-price h4{font-size:20px; line-height:25px;}
+.clensing .right-price{float:right; width:20%;}
+.clensing .left-price p.green-text{font-size:20px;}
+.receipt .after-text h1 { padding: 20px 20px 20px 0;}
+.receipt .after-text p{padding:10px;}
+.clensing p{padding:0 !important;}
+
+.img-clensing {
+    width: 24%;
+}
+.clensing .red-btn{margin-top:10px;}
+.clensing .left-right-content{padding:10px;}
+.apply-coupon{position:absolute;}
+
+
+}
+ @media screen and (max-width: 767px) {
+.receipt .after-text{position:static; width:100%; float:none;}
+.clensing{padding:10px;}
+
+
+ }
+ @media screen and (max-width: 640px) {
+.top-text h1 { font-size: 45px; line-height: 60px; }
+.top-text h2 { font-size: 40px; line-height: 40px; }
+head-left { height: auto; }
+.top-text { height: auto; padding: 13px 0; }
+.buzz h1 { font-size: 30px; }
+.red-btn-div { text-align: center; }
+.yellow-right, .yellow-right-new, .green_text { width: 100%; float: none; position: static; }
+.yellow-section { background: #f3d804; }
+.yellow-right-new h1 { margin: 0 auto; text-align: center; }
+.green-img { display: none; }
+.green-section { padding-bottom: 20px; }
+.yellow-section { padding: 30px 0 60px; }
+.badge-home, .claim, .fat { right: 0; }
+.right-ban { width: 95%; float: none; margin: 0 auto; }
+.banner-image { position: static; }
+.home-logo { margin-bottom: -50px; }
+.buzz h1, .yellow-right h1, .yellow-right h1 span { font-size: 22px; text-align: center; line-height: 30px; }
+.yellow-right .red-btn { margin-bottom: 0; }
+.green_text h2 { margin: 0 auto; text-align: center; padding: 0; }
+.modal-image{display:none;}
+.after-text{width:100%; margin:0 auto; float:none; padding:0 10px;}
+.after-text h1:after{right:0;}
+.after-text h1{padding-left:0;}
+.green-add{padding:10px 20px;}
+.green-add-text{padding-left:0;}
+
+.yellow-tag {
+    background-size: 100% 100%;
+    margin: 0 auto 10px;
+    width: auto;
+}
+
+.bg-apply {
+    top: 50%;
+    width: 91%;
+    background-size:100% auto;
+}
+.text-coupon h2{font-size:40px;}
+.text-coupon h1{font-size:50px;}
+.text-coupon .red-btn{font-size:18px;}
+.text-coupon h3{font-size:25px;}
+.text-coupon{padding-top:85px;}
+.left-ban{float:none;}
+.badge-home {
+    top: 31%;
+    width: 50%;
+}
+.fat {
+    top: 58%;
+    width: 66%;
+}
+.claim-mb{padding-left:150px;}
+.left-ban{margin-top:-150px;}
+.pop-up{width:80%;}
+.pop-bot, .left-right-content,.pop-up .left-right-content{width:100%; float:none;}
+.left-right-content{padding:0 5px 10px;}
+.bg-pop-up .new-text,.bg-pop-up h1{text-align:center; padding-top:0; font-size:20px;}
+}
+ @media screen and (max-width: 480px) {
+.top-text h1 { font-size: 40px; line-height: 50px; }
+.top-text h2 { font-size: 35x; line-height: 35px; }
+.badge h2 { width: 100%; text-align: center; padding: 0; }
+.badge-image { position: static; width: 100%; text-align: center; }
+.heading-top { text-align: center; }
+.left-img { width: 80%; text-align: center; margin: 0 auto; float: none; }
+.left-right-content { float: none; width: 100%; }
+.less-width { width: 92%; }
+.right-ban .right-container { margin-top: 20px; }
+.right-ban .middle-content { padding: 0; }
+.video-section a { padding: 10px 0; }
+.buzz h1, .yellow-right h1, .yellow-right h1 span { font-size: 20px; }
+.yellow-right > h1 br { display: none; }
+.text-coupon h2{font-size:25px;}
+.text-coupon h1{font-size:30px;}
+.text-coupon h3{font-size:20px;}
+.text-coupon .red-btn{font-size:12px;}
+.text-coupon {
+    padding-top: 122px;
+}
+
+
+.claim-mb {
+    font-size: 20px;
+    padding-left: 124px;
+    text-align: right;
+}
+
+.fat {
+    top: 67%;
+    width: 66%;
+}
+.badge-home {
+    top: 48%;
+    width: 50%;
+}
+.left-ban {
+    margin-top: -320px;
+}
+.claim-mb{padding:25px 10px;}
+
+}
+ @media screen and (max-width: 360px) {
+.top-text h1 { font-size: 35px; line-height: 40px; }
+.top-text h2 { font-size: 30px; line-height: 40px; }
+.top-heading { background: none repeat scroll 0 0 #86ab02; }
+.right-container { background: none; }
+.less-width { width: 86%; }
+.fotter-first-wrp h1 { font-size: 23px; }
+.top-heading h1 { font-size: 22px; line-height: 30px; }
+.right-ban .top-heading { background: none; }
+.right-ban .red-btn { font-size: 14px; }
+.right-ban .top-heading > h1 { padding: 50px 0; }
+.text-coupon {
+    padding-right: 7px;
+    padding-top: 122px;
+    width: 50%;
+}
+.lemon{bottom:-4px;}
+.fat {
+    bottom: 12%;
+    top: inherit;
+}
+.badge-home {
+    bottom: 23%;
+    top: inherit;
+}
+.left-ban {
+    margin-top: -420px;
+}
+.claim-mb{font-size:15px;}
+}
+ @media screen and (max-width: 320px) {
+.left-right-content h2 { font-size: 20px; }
+.left-price h3, .right-price h4, .left-price p.green-text, .left-price h5 { font-size: 20px; }
+.company-logo li { width: 39%; }
+.form-prd label { padding-right: 5px; }
+.form-prd .sbHolder { width: 27%; }
+.red-btn, .fotter-first-wrp h1 { font-size: 20px; }
+ul.fotter-txt li { padding: 0 9px; }
+.card span { padding-right: 0; }
+
+.bg-apply {
+    top: 50%;
+    width: 91%;
+    background-size:100% auto;
+}
+
+.bg-apply {   width: 93%;}
+.claim-mb {
+    padding-left: 124px;
+    text-align: center;
+
+}

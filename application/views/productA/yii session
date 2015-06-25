@@ -1,0 +1,41 @@
+1.Introduction
+  a.What You Should Already Know
+    - HTML
+    - PHP 
+    - Jquery
+    - css
+  b.What is YII?  
+     1.Yii is a high-performance component-based PHP framework for developing large-scale Webapplications. It enables maximum reusability in Web programming
+     2.Yii (Yes it is) :-It is a PHP framework based on Object oriented php5.Developed by Qiang Xue.  who started to work on YII on 1st January 2008.Qiang Xue was with experience in development of frameworks PRADO one of famous framework for PHP was also developed by Qiang Xue.
+  c. What Can YII Do?
+
+  d.why YII ?
+   1. ORM Based
+   2. Automatic code generation(Crud) by GII tool.
+   3. CRM
+   4. Inbuilt Jquery validation
+   5. search function.
+   6. Reusablity by component
+   7. Extensions (libraries)
+   8. Security by role based access
+
+2. Structure (MVC)  
+   
+    What is MVC architecture?
+    How it works?
+    Need for framework
+
+3. Authentication and authorization Yii has built-in authentication support.It also supports 		authorization via hierarchical role-based access control (RBAC).
+
+4 Fundamental  
+    Entry script
+    Application
+    Controller, model, view
+    components
+    module
+    Path alias and namespace
+    Conventions
+    URL management
+
+
+url :http://www.itvedant.com/wp-content/uploads/2014/12/Yii-Framework-Training.pdf
